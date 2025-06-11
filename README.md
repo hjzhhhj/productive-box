@@ -50,6 +50,7 @@ This project uses GitHub graphQL API to get the commit histories and write into 
 
 1. Fork this repo
 1. Open the "Actions" tab of your fork and click the "enable" button
+1. This is Hamjung
 1. Go to the repo **Settings > Secrets and variables** > **Actions**,
    add the following secrets / variables:
    | Type | Name | Description |
